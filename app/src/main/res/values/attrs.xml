@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="mudoedittextattrs">
+        <attr name="integerLength" format="integer"/>
+        <attr name="decimalsLength" format="integer"/>
+        <attr name="allLength" format="integer"/>
+
+        <attr name="isNormal" format="boolean"/>
+        <attr name="isChinese" format="boolean"/>
+        <attr name="isPhoneNum" format="boolean"/>
+        <attr name="isIdCardNum" format="boolean"/>
+        <attr name="isEmail" format="boolean"/>
+
+    </declare-styleable>
+
+</resources>
